@@ -13,7 +13,7 @@ INPUT_SIZE = 1
 OUTPUT_SIZE = 1
 CELL_SIZE = 20
 LR = 0.006
-
+#sdfasdfasdfasfasf
 
 def get_batch():
     global BATCH_START, TIME_STEPS
